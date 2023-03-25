@@ -1,0 +1,21 @@
+/* * */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* background-color */
+.light-grey {
+    background-color: #EEEEEE;
+}
+
+.turquoise1 {
+background-color: #7EE5DA;
+}
+.turquoise2 {
+background-color: #70CCC2;
+}
+.turquoise3 {
+background-color: #62B3AA;
+}
+
